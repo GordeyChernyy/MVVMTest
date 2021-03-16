@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Development/Interaction/Interaction-TabletTest.unity
+    guid: 56b8bdd836810b94bbc576a9cae2415c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b76e8fff3bf0e9b41a211ef4fe2c028a,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 776f8dbffa5e765469d045057674cfc7,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 18293c45997d4a348b5a2c9172ad3db3,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: cdf22b9e5c4f9d34585688f944b41ee8,
+      type: 2}
